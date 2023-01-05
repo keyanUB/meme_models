@@ -2,3 +2,4 @@ best_classifier.pt
 best_encoder.pt
 models/vilt_best_classifier.pt
 models/vilt_best_encoder.pt
+models/layoutlm.pt
